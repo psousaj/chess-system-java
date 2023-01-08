@@ -1,0 +1,35 @@
+[33mcommit f252498a81d6c80ab14775f2bf0ead52182e6eb3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: José PInheiro <josepsousa2012@gmail.com>
+Date:   Sat Jan 7 22:49:20 2023 -0300
+
+    feat - add UI and ChessMatch
+
+[33mcommit ccb0e90620911947d7f5e71ac9e11a8715aeb943[m
+Author: José PInheiro <josepsousa2012@gmail.com>
+Date:   Sat Jan 7 22:00:59 2023 -0300
+
+    feat - add Classes Board and Piece
+
+[33mcommit 1ed9ba34762788384313b2a8d8beab4f0c2c7577[m
+Author: José PInheiro <josepsousa2012@gmail.com>
+Date:   Sat Jan 7 20:10:40 2023 -0300
+
+    Change gitignore
+
+[33mcommit 438521e37c1f466b62d7b705bad5a5aacc3fbd53[m
+Author: José PInheiro <josepsousa2012@gmail.com>
+Date:   Sat Jan 7 20:08:11 2023 -0300
+
+    feat  - add first class Position
+
+[33mcommit 021f036c7353a4961b40645ebee3d81bb4e3dd8e[m
+Author: José PInheiro <josepsousa2012@gmail.com>
+Date:   Sat Jan 7 19:58:36 2023 -0300
+
+    init config
+
+[33mcommit cd98874273c9439dd043aad60a3381112cbca3c1[m
+Author: José Pinheiro <100180118+psousaj@users.noreply.github.com>
+Date:   Sat Jan 7 19:37:38 2023 -0300
+
+    Initial commit
