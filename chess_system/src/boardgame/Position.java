@@ -24,4 +24,9 @@ public class Position {
 	public String toString() {
 		return String.format("%s, %s", row, column); 
 	}
+	
+	public void setValues (int row, int column) {
+		this.row = row;
+		this.column = column;
+	}
 }
