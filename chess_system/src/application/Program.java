@@ -15,8 +15,10 @@ public class Program {
 		
 		while(true) {
 			try {
+				UI.clearScreen();
 				UI.printBoard(chessMatch.getPieces());
 				System.out.println();
+				System.out.println("Play!");
 				System.out.print("Source: ");
 				ChessPosition source = UI.readChessPosition(sc);
 				
@@ -26,12 +28,12 @@ public class Program {
 				
 				ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
 			} catch (ChessException e) {
-				System.out.println("There is no piece on source position!! Try Again");
-				System.out.println();
+				System.out.println(e.getMessage());
+				sc.nextLine();
 				continue;
 			} catch (InputMismatchException e) {
-				System.out.println("Invalid position! Values are from a1 to h8");
-				System.out.println();
+				System.out.println(e.getMessage());
+				sc.nextLine();
 				continue;
 			}
 		}
