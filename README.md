@@ -1,9 +1,9 @@
 
-# Chess System <p align="right">
-  <img style="width: 200px; height:200px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-</p>
+# Chess System 
 ## A Terminal Chess-Game #TODO (Visual style with JavaFX(possibly))
-
+<p align="right">
+  <img style="width: 100px; height:100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+</p>
 ###  Estudo e uso dos tópicos: 
 > <p>Matrizes</p>
 > <p>POO</p>
