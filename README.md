@@ -1,5 +1,7 @@
 
-# Chess System
+# Chess System <p align="right">
+  <img style="width: 200px; height:200px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+</p>
 ## A Terminal Chess-Game #TODO (Visual style with JavaFX(possibly))
 
 ###  Estudo e uso dos tópicos: 
@@ -14,10 +16,6 @@
   <img src="https://github.com/psousaj/chess-system-java/blob/main/chess_system/Front.png?raw=true" />
 </p>
 
-
-<p align="center">
-  <img style="width: 200px; height:200px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-</p>
 
 
 
